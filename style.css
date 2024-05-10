@@ -1,0 +1,32 @@
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: rgb(85, 0, 0);
+    color: white;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    font-size: 30px;
+
+
+}
+
+ul {
+    text-align: center;
+
+}
+
+table {
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+
+}
